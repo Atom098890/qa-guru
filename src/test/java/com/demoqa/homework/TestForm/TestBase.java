@@ -1,4 +1,4 @@
-package com.demoqa.TestForm;
+package com.demoqa.homework.TestForm;
 
 import com.codeborne.selenide.Configuration;
 
