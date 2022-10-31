@@ -14,7 +14,7 @@ dependencies {
             'org.junit.jupiter:junit-jupiter:5.9.0',
             'com.codeborne:selenide:6.9.0'
     )
-    testRuntimeOnly('org.slf4j:slf4j-simple:2.0.3')
+//    testRuntimeOnly('org.slf4j:slf4j-simple:2.0.3')
 }
 
 test {
