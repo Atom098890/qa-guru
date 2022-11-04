@@ -13,7 +13,6 @@ import java.util.stream.Stream;
 import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.*;
 
-@Disabled
 public class MainTutu {
 
     static Stream<Arguments> checkLinks() {

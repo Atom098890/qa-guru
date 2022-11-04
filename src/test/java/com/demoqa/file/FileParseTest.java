@@ -22,7 +22,6 @@ import java.util.zip.ZipInputStream;
 import static com.codeborne.selenide.Selenide.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
-@Disabled
 public class FileParseTest {
 
     ClassLoader classLoader = FileParseTest.class.getClassLoader();

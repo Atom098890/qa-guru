@@ -13,7 +13,6 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
-@Disabled
 public class SelenideTest {
 
     // тесты могут падать и это плахая практика, это на крайний случай, когда нету href для скачивания файлов
