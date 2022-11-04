@@ -7,6 +7,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.opencsv.CSVParser;
 import com.opencsv.CSVReader;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.shadow.com.univocity.parsers.csv.CsvParser;
 
@@ -21,6 +22,7 @@ import java.util.zip.ZipInputStream;
 import static com.codeborne.selenide.Selenide.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
+@Disabled
 public class FileParseTest {
 
     ClassLoader classLoader = FileParseTest.class.getClassLoader();

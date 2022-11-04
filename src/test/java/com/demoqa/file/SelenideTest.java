@@ -1,7 +1,6 @@
 package com.demoqa.file;
 
-import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.FileDownloadMode;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;
@@ -14,6 +13,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
+@Disabled
 public class SelenideTest {
 
     // тесты могут падать и это плахая практика, это на крайний случай, когда нету href для скачивания файлов

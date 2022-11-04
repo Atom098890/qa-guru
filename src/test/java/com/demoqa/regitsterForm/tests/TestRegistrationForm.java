@@ -1,6 +1,7 @@
 package com.demoqa.regitsterForm.tests;
 
 import com.demoqa.regitsterForm.pages.RegistrationFromPage;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;
@@ -9,6 +10,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
 
+@Disabled
 public class TestRegistrationForm {
     RegistrationFromPage registrationFromPage = new RegistrationFromPage();
 
