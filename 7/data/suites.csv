@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 04 16:26:34 GMT 2022","Fri Nov 04 16:26:36 GMT 2022","1629","","com.demoqa.Allure.SelenideStepsTest","","com.demoqa.Allure.SelenideStepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Fri Nov 04 16:26:31 GMT 2022","Fri Nov 04 16:26:32 GMT 2022","1212","","com.demoqa.Allure.Attachments","","com.demoqa.Allure.Attachments","testAttachmentStep","testAttachmentStep()",""
+"passed","Fri Nov 04 16:26:31 GMT 2022","Fri Nov 04 16:26:31 GMT 2022","488","","com.demoqa.Allure.Attachments","","com.demoqa.Allure.Attachments","testAttachmentsStep","testAttachmentsStep()",""
+"passed","Fri Nov 04 16:26:32 GMT 2022","Fri Nov 04 16:26:34 GMT 2022","2054","","com.demoqa.Allure.SelenideStepsTest","","com.demoqa.Allure.SelenideStepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Fri Nov 04 16:26:31 GMT 2022","Fri Nov 04 16:26:31 GMT 2022","3","","com.demoqa.Allure.LabelsTest","","com.demoqa.Allure.LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"failed","Fri Nov 04 16:26:19 GMT 2022","Fri Nov 04 16:26:30 GMT 2022","11439","","com.demoqa.Allure.SelenideTest","","com.demoqa.Allure.SelenideTest","testIssueSearchTest","testIssueSearchTest()",""
+"passed","Fri Nov 04 16:26:31 GMT 2022","Fri Nov 04 16:26:31 GMT 2022","2","","com.demoqa.Allure.LabelsTest","","com.demoqa.Allure.LabelsTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
